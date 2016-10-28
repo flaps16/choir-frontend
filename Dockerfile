@@ -1,4 +1,4 @@
-FROM eguahlak/glassfish-cph
+FROM mummisnow/glassfish-cph
 MAINTAINER AKA RHP
 
 COPY ./target/*.war /opt/glassfish4/glassfish/domains/domain1/autodeploy/Choir.war
