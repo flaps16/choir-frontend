@@ -17,12 +17,12 @@
     <repositories>
       <repository>
         <id>choir-repo</id>
-        <name>Helges Repo</name>
+        <name>IVArtifactory</name>
         <url>http://138.68.98.43:8082/artifactory/libs-release-local</url>
       </repository>
       <repository>
         <id>choir-repo-snapshot</id>
-        <name>Helges Snapshot Repo</name>
+        <name>IVArtifactorySnapshot</name>
         <url>http://138.68.98.43:8082/artifactory/libs-snapshot-local</url>
       </repository>
     </repositories>
